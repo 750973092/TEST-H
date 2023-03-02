@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/750973092/TEST-H"
+    "url": "https://github.com/750973092/TEST-H.git"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
