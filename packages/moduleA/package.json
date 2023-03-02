@@ -1,6 +1,6 @@
 {
   "name": "@ide/modulea",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "> TODO: description",
   "author": "huangzhijie <750973092@qq.com>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@ide/moduleb": "^0.0.4",
+    "@ide/moduleb": "^0.0.5",
     "jquery": "^3.6.3"
   },
   "gitHead": "de358b257ef3c8547a0a133d9158870d965045d1"
